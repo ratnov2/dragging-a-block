@@ -1,0 +1,15 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");
+body{            
+    font-family: 'Roboto', sans-serif;  
+    margin: 0;     
+    color: aliceblue;         
+}
+.block {
+  background-color:#00CCFF;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 400px;
+  height: 200px;
+}
